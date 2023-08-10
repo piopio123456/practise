@@ -19,7 +19,7 @@ export default function Home() {
             <li className="text-base">C++</li>
           </ul>
        
-          <ul className="list-disc list-inside">Liberary
+          <ul className="list-disc list-inside">Library
             <li className="text-base">React</li>
             <li className="text-base">jQuery</li>
             <li className="text-base">Tailwind CSS</li>
@@ -31,7 +31,7 @@ export default function Home() {
             <li className="text-base">CSS</li>
           </ul>
        
-          <ul className="list-disc list-inside">Liberary
+          <ul className="list-disc list-inside">text
             <li className="text-base">React Hook</li>
             <li className="text-base">text</li>
             <li className="text-base">text</li>
